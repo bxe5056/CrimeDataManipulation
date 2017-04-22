@@ -42,16 +42,20 @@ Make Geocode Files (Filename: REQUIRED)
      inside the out folder.
      
 Combine CSV Files in current dir (Filename: Not Required)
+
      This function takes all CSV files in random order and merges them into one CSV in a newly created 'squish' folder.
      
 Make one Column CSV (Filename: REQUIRED)
+
      Outputs one Complete Column from the Main CSV file.
      
 Drop rows that do not meet specified criteria.
+
      Separates a CSV by Year. Input the Year you would like results on and the function will return an individual CSV file
      with only your criteria.. 
      
 Are you done?
+
      The program can loop for multiple files or functions without reopening the program.
      If selected, you are asked if you need to switch to a different main file. 
      The program will then repeat in the same order as above.
