@@ -29,13 +29,16 @@ Make Geocode Files (Filename: REQUIRED)
      The Census geocoding system cannot handle more than 1000 records at a time.)
      
      The function will break apart the main CSV file, and output multiple files into the newly created folder.
-     You will have the option to submit the files directly to the Census for Geocoding. Skip to the next function.
+     You will have the option to submit the files directly to the Census for Geocoding. 
+     Skip to the next function.
      
-     Digitally Geocode Files (Work in Progress) (Filename: Not Required) (Only accessible on a UNIX machine)
+     Digitally Geocode Files (Work in Progress) (Filename: Not Required) 
+     (Only accessible on a UNIX machine)
      Select if you'd like to submit all CSV files in the current folder. (Ex. A Make Geocode Folder)
      
      If yes, 
-          All CSV files in the folder are submitted. One after the other. If coming directly from Make Geocode Files, there will be a
+          All CSV files in the folder are submitted. One after the other. 
+          If coming directly from Make Geocode Files, there will be a
           count under each submission. Otherwise it will show the number of files completed.
      If no,
           Type the single filename you want to submit. 
