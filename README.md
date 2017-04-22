@@ -46,8 +46,8 @@ Make Geocode Files (Filename: REQUIRED)
      If you receive Errno 17, rename the out folder.
      Function will query the Census and return results.
      
-     If you wish to recombine the part/broken files, press y at 'Combine CSV Files'. The file will be located in the squish folder
-     inside the out folder.
+     If you wish to recombine the part/broken files, press y at 'Combine CSV Files'. 
+     The file will be located in the squish folder inside the out folder.
      
 Combine CSV Files in current dir (Filename: Not Required)
 
